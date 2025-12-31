@@ -1,5 +1,10 @@
+<a href="https://www.buymeacoffee.com/IntExCZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # NoCache-Image-Card
 Shows image from URL with cache-busting mechanism (for live snapshots, camera snapshots, etc.) in a card on the Home Assistant dashboard.
+
+![Configuration preview](configuration.png)
+
 ```yaml
 type: custom:nocache-image-card
 url: "/local/chmi_alert_map.png"
